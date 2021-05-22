@@ -58,7 +58,8 @@ arduino, atom IDE를 통해 개발을 진행했습니다.
 <br>
 
 1. 가로드 매니저 회로도입니다. 해당 제품을 통해 빛을 감지하고 WiFi 모듈을 통해 서버로 데이터를 전송합니다.
-
+<br>
+<br>
 ![image](https://user-images.githubusercontent.com/51222715/119217951-a9f5ce80-bb18-11eb-9e24-a3b77b880011.png)
 <br>
 
