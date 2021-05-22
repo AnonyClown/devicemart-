@@ -56,10 +56,10 @@ arduino, atom IDE를 통해 개발을 진행했습니다.
 
 ![image](https://user-images.githubusercontent.com/51222715/119217931-8af73c80-bb18-11eb-8edd-b8329e246183.png)
 1. 가로드 매니저 회로도입니다. 해당 제품을 통해 빛을 감지하고 WiFi 모듈을 통해 서버로 데이터를 전송합니다.
-
+<br>
 ![image](https://user-images.githubusercontent.com/51222715/119217951-a9f5ce80-bb18-11eb-9e24-a3b77b880011.png)
 2. 상황판을 만들어 가로등 매니저 갯수(3개)에 맞춰 만약 문제가 생기면 LED등에 불빛이 들어오게 설계했습니다.
-<
+<br>
 3. 해당 코드들은 파일 참조하면 됩니다.
 <br>
 <br>
